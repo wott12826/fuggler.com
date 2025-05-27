@@ -7702,12 +7702,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
   // Переключение гифок
   const gifs = document.querySelectorAll('.center-gif');
   let current = 0;
-  setInterval(() => {
+ gifs.forEach(gif => {
+  gif.style.cursor = 'pointer'; // чтобы было понятно, что можно кликать
+  gif.addEventListener('click', () => {
     gifs[current].classList.remove('active');
     current = (current + 1) % gifs.length;
     gifs[current].classList.add('active');
-  }, 5000);
-
+  });
+});
   const maxBtn = document.getElementById('maxBtn');
   const mxmInput = document.getElementById('mxmInput');
   const walletBalance = document.getElementById('walletBalance');
