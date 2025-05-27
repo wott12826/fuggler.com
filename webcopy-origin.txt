@@ -1,0 +1,2276 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\fuggler.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/
+File Name: C:\Downloaded Web Sites\fuggler.com\index.htm
+Content Type: text/html
+
+Uri: https://fuggler.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://fuggler.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://fuggler.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\fuggler.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://fuggler.com/comments/feed/
+File Name: C:\Downloaded Web Sites\fuggler.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fuggler.com/feed/
+File Name: C:\Downloaded Web Sites\fuggler.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fuggler.com/fugg-tv/
+File Name: C:\Downloaded Web Sites\fuggler.com\fugg-tv\index.htm
+Content Type: text/html
+
+Uri: https://fuggler.com/meet-the-fugglers-2/
+File Name: C:\Downloaded Web Sites\fuggler.com\meet-the-fugglers-2\index.htm
+Content Type: text/html
+
+Uri: https://fuggler.com/wp-content/et-cache/12/et-core-unified-deferred-12.min.css?ver=1747916846
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\et-cache\12\et-core-unified-deferred-12.min.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/et-cache/8/et-core-unified-deferred-8.min.css?ver=1747916832
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\et-cache\8\et-core-unified-deferred-8.min.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/et-cache/8/et-divi-dynamic-8.css?ver=1747916831
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\et-cache\8\et-divi-dynamic-8.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\mu-plugins\vendor\wpex\godaddy-launch\includes\Dependencies\GoDaddy\Styles\build\latest.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-700.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-700.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-700.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-700.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-700.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-700.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-700.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-700.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-700.woff2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-700.woff2
+Content Type: font/woff2
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-regular.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-regular.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-regular.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-regular.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-regular.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-regular.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-regular.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/nunito-v8-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\nunito-v8-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.16.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\scripts\main.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=4.16.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\plugins\gdpr-cookie-compliance\dist\styles\gdpr-main.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/css/owl.carousel.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica-Bold.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica-Bold.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica-Bold.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica-Bold.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica-Bold.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica-Bold.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica-Bold.woff2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/Helvetica.woff2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\Helvetica.woff2
+Content Type: font/woff2
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/MrsLollipop-Regular.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\MrsLollipop-Regular.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/MrsLollipop-Regular.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\MrsLollipop-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/MrsLollipop-Regular.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\MrsLollipop-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/MrsLollipop-Regular.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\MrsLollipop-Regular.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/MrsLollipop-Regular.woff2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\MrsLollipop-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/PacificNorthwestRough-NormalMed.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\PacificNorthwestRough-NormalMed.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/PacificNorthwestRough-NormalMed.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\PacificNorthwestRough-NormalMed.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/PacificNorthwestRough-NormalMed.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\PacificNorthwestRough-NormalMed.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/PacificNorthwestRough-NormalMed.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\PacificNorthwestRough-NormalMed.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/fonts/PacificNorthwestRough-NormalMed.woff2
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\fonts\PacificNorthwestRough-NormalMed.woff2
+Content Type: font/woff2
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/adopt_bottom_bg.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\adopt_bottom_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/bg-pattern-1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\bg-pattern-1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/bg_hover.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\bg_hover.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/border-strip.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\border-strip.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/close-menu.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\close-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/frame-blue.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\frame-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/frame-grey.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\frame-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/frame-pink.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\frame-pink.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/frame-purple.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\frame-purple.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/hover_circle.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\hover_circle.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/icon_hover.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\icon_hover.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/line-bar.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\line-bar.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/meet-bg-image.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\meet-bg-image.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/menu-bar.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\menu-bar.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/paper-back-bg.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\paper-back-bg.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/repeat_bg.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\repeat_bg.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/shadow.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\shadow.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/slide-arrow-black.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\slide-arrow-black.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/slide_arrow.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\slide_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/tag.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\tag.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/tiktok.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\tiktok.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/images/white_top_bar.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\images\white_top_bar.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/js/init.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\js\init.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/js/owl.carousel.min.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/themes/divi-child/style.css?ver=4.27.4
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\divi-child\style.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.eot
+Content Type: 
+
+Uri: https://fuggler.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.ttf
+Content Type: font/ttf
+
+Uri: https://fuggler.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.woff
+Content Type: font/woff
+
+Uri: https://fuggler.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.4
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\core\admin\js\common.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.4
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.27.4
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.mobile.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\includes\builder\styles\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://fuggler.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.4
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\themes\Divi\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/adopt_main_bg_box.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\adopt_main_bg_box.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-101-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-101-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-103b-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-103b-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-104-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-104-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-105-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-105-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-106-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-106-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-107-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-107-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-108-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-108-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-109-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-109-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-110-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-110-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-111-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-111-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-112-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-112-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-113-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-113-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-114-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-114-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-115-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-115-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-116-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-116-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-117-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-117-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-118-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-118-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-120-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-120-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-121-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-121-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-122-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-122-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-123-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-123-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-124-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-124-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-125-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-125-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-126-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-126-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-126.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-126.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-92-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-92-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-94-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-94-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Asset-98-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Asset-98-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/banner-labmisfit-50.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\banner-labmisfit-50.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/BF1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\BF1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/BF11-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\BF11-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/BF3-1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\BF3-1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/BF5-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\BF5-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/BF6-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\BF6-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/BF7-1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\BF7-1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Budgie-Asset-95-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Budgie-Asset-95-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/budgie-fuggler-edition.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\budgie-fuggler-edition.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/heading_bg.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\heading_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-127-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-127-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-128-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-128-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-129-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-129-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-130-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-130-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-131-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-131-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-132-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-132-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-133-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-133-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-134-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-134-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-135-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-135-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/keyring23Asset-136-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\keyring23Asset-136-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/KR22.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\KR22.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-137-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-137-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-138-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-138-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-139-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-139-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-140-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-140-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-141-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-141-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-142-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-142-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-143-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-143-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-144-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-144-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-145-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-145-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/Lab-Asset-147-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\Lab-Asset-147-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LIM.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LIM.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM1_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM1_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM2_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM2_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM3_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM3_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM4_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM4_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM5_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM5_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM6_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM6_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM6_2-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM6_2-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM7_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM7_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/LM8_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\LM8_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/main_logo-1.svg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\main_logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/news1-50-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\news1-50-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/news1-50-1.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\news1-50-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/news2-50-150x150.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\news2-50-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/news2-50.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\news2-50.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR10-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR10-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR11-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR11-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR12-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR12-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR13-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR13-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR2-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR2-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR3-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR3-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR6-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR6-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR7-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR7-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR8-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR8-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/OR9-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\OR9-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/ORI.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\ORI.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/SN.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\SN.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/SP.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\SP.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/SP2_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\SP2_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/SP2_1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\SP2_1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/SP3_1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\SP3_1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/03/SP3_1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\03\SP3_1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Baby-City-480x260.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Baby-City-480x260.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Baby-City.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Baby-City.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/cropped-flav-v2-180x180.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\cropped-flav-v2-180x180.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/cropped-flav-v2-192x192.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\cropped-flav-v2-192x192.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/cropped-flav-v2-32x32.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\cropped-flav-v2-32x32.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/fs-chaoticallycute.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\fs-chaoticallycute.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/fs-warning.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\fs-warning.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Inter1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Inter1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Kmart1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Kmart1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Moustakas-bigger-480x472.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Moustakas-bigger-480x472.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Moustakas-bigger.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Moustakas-bigger.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/Poly1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\Poly1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/TE1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\TE1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/04/TRU1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\04\TRU1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/news3-480x480.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\news3-480x480.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/news3-980x980.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\news3-980x980.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/news3.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\news3.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/TMNT.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\TMNT.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/TMNT1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\TMNT1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/TMNT2-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\TMNT2-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/TMNT3-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\TMNT3-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/06/TMNT4-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\06\TMNT4-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/08/Lab-Asset-146-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\08\Lab-Asset-146-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/08/SPECIAL-2v1-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\08\SPECIAL-2v1-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/08/SPECIAL-2v2-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\08\SPECIAL-2v2-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/08/SPECIAL-2v3-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\08\SPECIAL-2v3-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FF.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FF.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FF1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FF1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FF2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FF2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FF3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FF3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FF4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FF4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FF5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FF5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG1-224x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG1-224x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG10-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG10-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG7-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG7-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/FG9-224x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\FG9-224x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/Fuggler-Banner-Banner-Fugglow.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\Fuggler-Banner-Banner-Fugglow.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/news4-150x150.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\news4-150x150.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/09/news4.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\09\news4.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/10/BF12-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\10\BF12-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/10/BF13-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\10\BF13-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/10/BF14-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\10\BF14-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/10/BF15-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\10\BF15-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/10/Fart-Face-150x150.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\10\Fart-Face-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/10/Fart-Face.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\10\Fart-Face.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/11/Fuggler-Banner-Banner-TMNT-US-Launch-v2.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\11\Fuggler-Banner-Banner-TMNT-US-Launch-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/11/Fuggler_Walmart_1080x1080-v2-02-480x480.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\11\Fuggler_Walmart_1080x1080-v2-02-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/11/Fuggler_Walmart_1080x1080-v2-02-980x980.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\11\Fuggler_Walmart_1080x1080-v2-02-980x980.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/11/Fuggler_Walmart_1080x1080-v2-02.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\11\Fuggler_Walmart_1080x1080-v2-02.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BABY-FUGG.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BABY-FUGG.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF7-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF7-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/BabyF9-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\BabyF9-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/FF10-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\FF10-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/FF6-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\FF6-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/FF7-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\FF7-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/FF8-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\FF8-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/FF9-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\FF9-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/LOVE-FUGG-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\LOVE-FUGG-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/LOVE-FUGG.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\LOVE-FUGG.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/nfotb-1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\nfotb-1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/NFOTB_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\NFOTB_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/NFOTB_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\NFOTB_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/NFOTB_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\NFOTB_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/NFOTB_4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\NFOTB_4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/NFOTB_5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\NFOTB_5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/NFOTB_6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\NFOTB_6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2023/12/walmart-logo.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2023\12\walmart-logo.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/BABY-FUGG.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\BABY-FUGG.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-10-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-10-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-7-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-7-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/KEYRING-S3-9-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\KEYRING-S3-9-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/LOVEFUGG.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\LOVEFUGG.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/NFOTB.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\NFOTB.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-4.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-4.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-5.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-5.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/SPECIAL-ACTION-6.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\SPECIAL-ACTION-6.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/01/Spin-Libertas.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\01\Spin-Libertas.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/fs-fuggnatomy-1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\fs-fuggnatomy-1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/FUGG-FAM_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\FUGG-FAM_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/FUGG-FAM_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\FUGG-FAM_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/FUGG-FAM_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\FUGG-FAM_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/FUGG-FAM_3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\FUGG-FAM_3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/Patrick-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\Patrick-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/Patrick.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\Patrick.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/ROFU_1zu1-1280x1280.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\ROFU_1zu1-1280x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/ROFU_1zu1-480x480.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\ROFU_1zu1-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/ROFU_1zu1-980x980.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\ROFU_1zu1-980x980.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/ROFU_1zu1.jpg
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\ROFU_1zu1.jpg
+Content Type: image/jpeg
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/SB.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\SB.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/Sponge-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\Sponge-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/Sponge.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\Sponge.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/SPONGEBOB.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\SPONGEBOB.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/VALUE.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\VALUE.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/WINDOW-CLINGER.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\WINDOW-CLINGER.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/WINDOW_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\WINDOW_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/WINDOW_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\WINDOW_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/02/WINDOW_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\02\WINDOW_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/Asset-3-e1710481685284.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\Asset-3-e1710481685284.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-7-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-7-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/BABYF-W2-9-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\BABYF-W2-9-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/background-image-new.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\background-image-new.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/fugg-doll.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\fugg-doll.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/FUGGLER-TOTAL-COLLECTION.pdf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\FUGGLER-TOTAL-COLLECTION.pdf
+Content Type: application/pdf
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/Group-1825.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\Group-1825.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/Group-1992.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\Group-1992.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/NFTOTB-S2-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\NFTOTB-S2-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/NFTOTB-S2-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\NFTOTB-S2-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/NFTOTB-S2-3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\NFTOTB-S2-3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/NFTOTB-S2-4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\NFTOTB-S2-4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/NFTOTB-S2-5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\NFTOTB-S2-5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/NFTOTB-S2-6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\NFTOTB-S2-6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/03/tv-btn-e1710416064960.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\03\tv-btn-e1710416064960.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_7-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_7-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BABY-FUGG-W3_9-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BABY-FUGG-W3_9-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BIGG_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BIGG_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BIGG_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BIGG_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BIGG_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BIGG_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/BIGG_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\BIGG_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DC_4.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DC_4.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DOUBLE-TROUBLE_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DOUBLE-TROUBLE_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DOUBLE-TROUBLE_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DOUBLE-TROUBLE_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DOUBLE-TROUBLE_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DOUBLE-TROUBLE_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DOUBLE-TROUBLE_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DOUBLE-TROUBLE_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DOUBLE-TROUBLE_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DOUBLE-TROUBLE_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/DOUBLE-TROUBLE_3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\DOUBLE-TROUBLE_3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FESTIVE_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FESTIVE_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FESTIVE_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FESTIVE_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FESTIVE_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FESTIVE_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FESTIVE_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FESTIVE_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FFW3-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FFW3-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FFW3-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FFW3-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FFW3-3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FFW3-3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FFW3-4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FFW3-4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/FFW3-5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\FFW3-5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/GREM-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\GREM-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/GREM-1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\GREM-1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/GREM-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\GREM-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/GREM-2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\GREM-2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_10-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_10-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_10.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_10.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_4.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_4.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_5.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_5.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_6.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_6.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_7-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_7-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_7.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_7.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_8.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_8.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_9-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_9-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/HAIRY_9.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\HAIRY_9.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_1-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_1-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_10-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_10-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_2-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_2-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_3-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_3-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_4-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_4-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_5-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_5-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_6-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_6-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_7-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_7-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_8-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_8-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/KEY-W4_9-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\KEY-W4_9-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_4.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_4.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/05/TESCO-VALUE_5.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\05\TESCO-VALUE_5.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/BIGGFUGG.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\BIGGFUGG.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/DOUBLE-TROUBLE.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\DOUBLE-TROUBLE.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD-1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD-1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_10-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_10-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_10.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_10.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_3-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_3-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_3.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_3.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_4-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_4-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_4.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_4.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_5-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_5-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_5.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_5.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_6-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_6-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_6.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_6.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_7_fix-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_7_fix-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_7_fix.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_7_fix.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_8-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_8-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_8.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_8.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_9-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_9-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/GOLD_9.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\GOLD_9.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/08/OOGAH-264x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\08\OOGAH-264x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/09/FESTIVE.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\09\FESTIVE.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/09/GREMLINS.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\09\GREMLINS.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/10/LOVE-1-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\10\LOVE-1-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/10/LOVE-1.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\10\LOVE-1.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/10/LOVE-2-225x300.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\10\LOVE-2-225x300.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2024/10/LOVE-2.webp
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2024\10\LOVE-2.webp
+Content Type: image/webp
+
+Uri: https://fuggler.com/wp-content/uploads/2025/01/LF-poster.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\01\LF-poster.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/card_pattern.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\card_pattern.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-bigfuggstory-150x150.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-bigfuggstory-150x150.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-bigfuggstory.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-bigfuggstory.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-breakingnews-bg.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-breakingnews-bg.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-cardboard-bg.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-cardboard-bg.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-concrete-graffiti.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-concrete-graffiti.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-footer-center.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-footer-center.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-footer-left.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-footer-left.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-footer-right.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-footer-right.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-left-hecks-xl-480x455.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-left-hecks-xl-480x455.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-left-hecks-xl.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-left-hecks-xl.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-main-logo.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-main-logo.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-meetthefugglers-bg.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-meetthefugglers-bg.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-right-hecks-xl-480x489.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-right-hecks-xl-480x489.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/fs-right-hecks-xl.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\fs-right-hecks-xl.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/02/tv-fugg-tv-e1711369145795.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\02\tv-fugg-tv-e1711369145795.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714A_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714A_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714A_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714A_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714B_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714B_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714B_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714B_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714D_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714D_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714D_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714D_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714E_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714E_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714E_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714E_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714G_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714G_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714G_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714G_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714H_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714H_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714H_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714H_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714J_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714J_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714J_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714J_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714K_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714K_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714K_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714K_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714L_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714L_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714L_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714L_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714M_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714M_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714M_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714M_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714N_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714N_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15714N_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15714N_FUGGLER_VACAY-VIBES-9-SERIES-1_OOP_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15715A_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-A-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15715A_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-A-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15715A_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-A.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15715A_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-A.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15715B_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-B-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15715B_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-B-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15715B_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-B.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15715B_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-B.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15715D_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-C-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15715D_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-C-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15715D_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-C.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15715D_FUGGLER-LORD-OF-THE-RINGS_ECOM-HERO-C.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717A_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717A_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717A_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717A_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717B_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717B_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717B_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717B_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717D_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717D_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717D_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717D_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717E_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717E_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717E_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717E_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717G_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717G_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717G_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717G_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717H_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717H_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01-225x300.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/15717H_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\15717H_FUGGLER_CHAOS-CREW-9-SERIES-1_Ecommerce-Hero_01.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/FuggClub-480x263.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\FuggClub-480x263.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/FuggClub.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\FuggClub.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/poster_Chaos-Crew-1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\poster_Chaos-Crew-1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/poster_LOTR-1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\poster_LOTR-1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-content/uploads/2025/03/poster_Vacay-Vibes-1.png
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2025\03\poster_Vacay-Vibes-1.png
+Content Type: image/png
+
+Uri: https://fuggler.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-includes/css/dist/components/style.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-includes\css\dist\components\style.min.css
+Content Type: text/css
+
+Uri: https://fuggler.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fuggler.com/wp-json/
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://fuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuggler.com%2F
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://fuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuggler.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://fuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuggler.com%2Ffugg-tv%2F
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://fuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuggler.com%2Ffugg-tv%2F&format=xml
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://fuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuggler.com%2Fmeet-the-fugglers-2%2F
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://fuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuggler.com%2Fmeet-the-fugglers-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://fuggler.com/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://fuggler.com/wp-json/wp/v2/pages/1781
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\wp\v2\pages\1781
+Content Type: application/json
+
+Uri: https://fuggler.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\fuggler.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://p.typekit.net/p.css?s=1&k=bxm4smk&ht=tk&f=9654&a=6305019&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\fuggler.com\p.css
+Content Type: text/css
+
+Uri: https://p.typekit.net/p.css?s=1&k=lya0mxt&ht=tk&f=37511.37513.37516.37518.37520.37522.37524&a=33162917&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\fuggler.com\p-1.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/070c63/00000000000000007735fdb6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\070c63\00000000000000007735fdb6\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/070c63/00000000000000007735fdb6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\070c63\00000000000000007735fdb6\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/070c63/00000000000000007735fdb6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\070c63\00000000000000007735fdb6\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/0e7654/00000000000000007735fdc1/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\0e7654\00000000000000007735fdc1\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/0e7654/00000000000000007735fdc1/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\0e7654\00000000000000007735fdc1\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/0e7654/00000000000000007735fdc1/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\0e7654\00000000000000007735fdc1\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/21f608/00000000000000007735fdb2/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\21f608\00000000000000007735fdb2\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/21f608/00000000000000007735fdb2/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\21f608\00000000000000007735fdb2\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/21f608/00000000000000007735fdb2/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\21f608\00000000000000007735fdb2\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/278e8a/00000000000000007735fdb3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\278e8a\00000000000000007735fdb3\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/278e8a/00000000000000007735fdb3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\278e8a\00000000000000007735fdb3\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/278e8a/00000000000000007735fdb3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\278e8a\00000000000000007735fdb3\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/5066eb/00000000000000007735fdbb/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\5066eb\00000000000000007735fdbb\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/5066eb/00000000000000007735fdbb/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\5066eb\00000000000000007735fdbb\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/5066eb/00000000000000007735fdbb/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\5066eb\00000000000000007735fdbb\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/bf384f/00000000000000007735fdb7/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\bf384f\00000000000000007735fdb7\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/bf384f/00000000000000007735fdb7/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\bf384f\00000000000000007735fdb7\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/bf384f/00000000000000007735fdb7/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\bf384f\00000000000000007735fdb7\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/e960ee/00000000000000003b9b2546/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\e960ee\00000000000000003b9b2546\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/e960ee/00000000000000003b9b2546/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\e960ee\00000000000000003b9b2546\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/e960ee/00000000000000003b9b2546/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\e960ee\00000000000000003b9b2546\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/f2b266/00000000000000007735fdb4/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\f2b266\00000000000000007735fdb4\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/f2b266/00000000000000007735fdb4/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\f2b266\00000000000000007735fdb4\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/f2b266/00000000000000007735fdb4/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\fuggler.com\af\f2b266\00000000000000007735fdb4\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/bxm4smk.css
+File Name: C:\Downloaded Web Sites\fuggler.com\bxm4smk.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/lya0mxt.css
+File Name: C:\Downloaded Web Sites\fuggler.com\lya0mxt.css
+Content Type: text/css
+
+Uri: https://www.addoplay.com/wp-content/uploads/2021/04/Addo_Play_LTD_Privacy_Policy-V2.pdf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2021\04\Addo_Play_LTD_Privacy_Policy-V2.pdf
+Content Type: application/pdf
+
+Uri: https://www.addoplay.com/wp-content/uploads/2022/05/Addo-Play-LTD-Standard-TCs-of-Sale1.pdf
+File Name: C:\Downloaded Web Sites\fuggler.com\wp-content\uploads\2022\05\Addo-Play-LTD-Standard-TCs-of-Sale1.pdf
+Content Type: application/pdf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-GQSLZYKFNY
+File Name: C:\Downloaded Web Sites\fuggler.com\gtag\js
+Content Type: application/javascript
+
