@@ -7487,13 +7487,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 												<div class="wallet-header">
 													<p>FUGGLER AVAILABLE:</p>
 													<div class="wallet-balance">
-														<img src="icon.png" alt="icon" />
+														<img src="wp-content/uploads/2023/04/cropped-flav-v2-32x32.png"
+															alt="icon" style="backdrop-filter: brightness(350%);" />
 														<span id="walletBalance">20</span>
 													</div>
 												</div>
 
 												<div class="mxm-input">
-													<img src="icon.png" alt="icon" />
+													<img src="wp-content/uploads/2023/04/cropped-flav-v2-32x32.png"
+														alt="icon" style="backdrop-filter: brightness(350%);" />
 													<input type="text" value="0" id="mxmInput" />
 													<span id="maxBtn" style="cursor: pointer;">MAX</span>
 												</div>
@@ -7548,20 +7550,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 									.overlay-right {
 										position: absolute;
-										top: 10%;
-										/* подняли чуть выше */
-										right: 10px;
-										/* прижать справа */
-										width: 550px;
-										/* увеличили размер */
+										top: 20%;
+										right: -10%;
+										width: 1050px;
 										height: auto;
 										z-index: 20;
 										transform-origin: top right;
-										/* точка вращения — правый верхний угол */
 										transform: rotate(-15deg);
-										/* наклон против часовой стрелки */
 									}
 
+									.wallet-balance {
+										margin-left: 85% !important;
+										/* или сколько нужно */
+									}
 
 									.fugg-container {
 										background: #111;
@@ -7602,10 +7603,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 										.overlay-right {
 											display: none;
 										}
+
 										.center-gif.active {
-										right: 10% !important;
-										position: relative !important;
-									}
+											right: 10% !important;
+											position: relative !important;
+										}
 									}
 								</style>
 
