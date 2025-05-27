@@ -157,7 +157,7 @@ h1, h2 {
 }
 .home_banner_slider .img_wrapper img {
     width: 100%;
-    object-fit: cover;
+    object-fit: auto;
 }
 .home_banner_slider .owl-dots button,
 .home_banner_page .et-pb-controllers a {
