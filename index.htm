@@ -7528,17 +7528,41 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 									}
 
 									.fugg-container {
-										position: relative;
-										z-index: 2;
 										background: #111;
 										border-radius: 16px;
 										padding: 24px;
 										color: white;
 										width: 100%;
 										max-width: 380px;
-										margin: 0 auto;
+										position: relative;
 										box-shadow: 0 0 12px #c0ff00;
 										border: 1px solid #333;
+										box-sizing: border-box;
+										margin: 0 auto;
+									}
+
+									/* Адаптивность для мобильных устройств */
+									@media (max-width: 768px) {
+										.fugg-container {
+											max-width: 50vw;
+											/* 90% ширины экрана */
+											padding: 16px;
+										}
+
+										.progress-text {
+											font-size: 16px;
+											word-wrap: break-word;
+											/* Перенос длинных слов */
+										}
+
+										.progress-bar {
+											height: 10px;
+										}
+
+										.wallet-box button {
+											padding: 10px 0;
+											font-size: 12px;
+										}
 									}
 
 									.progress-box {
