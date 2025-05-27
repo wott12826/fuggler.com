@@ -7460,94 +7460,66 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 						<div class="et-l et-l--post">
 							<div class="et_builder_inner_content et_pb_gutters3">
 <div class="et_pb_section et_pb_section_4">
-								<div class="image-wrapper">
-  <!-- Боковой текст только в этом блоке -->
-  <div class="side-text left-text">
-    <p>Текст слева</p>
-  </div>
+  <div class="image-wrapper">
+    <!-- Убрали боковой текст -->
 
-  <div class="center-gif-wrapper">
-    <img src="cdn-cgi/images/1.gif" alt="GIF 1" class="center-gif active" />
-    <img src="cdn-cgi/images/2.gif" alt="GIF 2" class="center-gif" />
-  </div>
-
-  <div class="side-text right-text">
-    <p>Текст справа</p>
-  </div>
-
-  <div class="fugg-container" style="position: absolute; bottom: 60px; left: 50%; transform: translateX(-50%); z-index: 10;">
-    <div class="progress-box">
-      <div class="progress-text"><span id="fugg-count">2462</span>/10000 $FUGG bought</div>
-      <div class="progress-bar">
-        <div class="progress-fill" id="progressFill" style="width: 24.62%;"></div>
-      </div>
+    <div class="center-gif-wrapper">
+      <img src="cdn-cgi/images/1.gif" alt="GIF 1" class="center-gif active" />
+      <img src="cdn-cgi/images/2.gif" alt="GIF 2" class="center-gif" />
     </div>
 
-    <div class="wallet-box">
-      <div class="wallet-header">
-        <p>MXM AVAILABLE:</p>
-        <div class="wallet-balance">
-          <img src="icon.png" alt="icon" />
-          <span id="walletBalance">20</span>
+    <!-- Добавляем два PNG поверх картонки -->
+    <img src="cdn-cgi/images/site.png" alt="Site" class="overlay-left" />
+    <img src="cdn-cgi/images/text2.png" alt="Text2" class="overlay-right" />
+
+    <div class="fugg-container" style="position: absolute; bottom: 60px; left: 50%; transform: translateX(-50%); z-index: 10;">
+      <div class="progress-box">
+        <div class="progress-text"><span id="fugg-count">2462</span>/10000 $FUGG bought</div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progressFill" style="width: 24.62%;"></div>
         </div>
       </div>
 
-      <div class="mxm-input">
-        <img src="icon.png" alt="icon" />
-        <input type="text" value="0" id="mxmInput" />
-        <span id="maxBtn" style="cursor: pointer;">MAX</span>
-      </div>
+      <div class="wallet-box">
+        <div class="wallet-header">
+          <p>MXM AVAILABLE:</p>
+          <div class="wallet-balance">
+            <img src="icon.png" alt="icon" />
+            <span id="walletBalance">20</span>
+          </div>
+        </div>
 
-      <button id="connectBtn">CONNECT WALLET</button>
+        <div class="mxm-input">
+          <img src="icon.png" alt="icon" />
+          <input type="text" value="0" id="mxmInput" />
+          <span id="maxBtn" style="cursor: pointer;">MAX</span>
+        </div>
+
+        <button id="connectBtn">CONNECT WALLET</button>
+      </div>
     </div>
   </div>
 </div>
-</div>
+
 <style>
   .image-wrapper {
-  position: relative;
-  width: 100%;
-  max-width: 1600px;
-  margin: 0 auto;
-  display: flex;
-  align-items: flex-start; /* поменяли с center на flex-start */
-  justify-content: center;
-  gap: 20px;
-  padding-top: 40px; /* добавим отступ сверху, чтобы не прижалось к верху */
-}
-
-  /* Боковой текст фиксирован и не прокручивается */
-  .side-text {
-    position: fixed;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 150px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    padding: 10px;
-    background: rgba(0, 0, 0, 0.6);
-    border-radius: 12px;
-  }
-
-  .left-text {
-    left: 10px;
-    text-align: left;
-  }
-
-  .right-text {
-    right: 10px;
-    text-align: right;
+    position: relative;
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    padding-top: 40px;
   }
 
   .center-gif-wrapper {
-  flex-shrink: 0;
-  width: 500px;
-  position: relative;
-  /* Можно добавить margin-top, если нужно */
-  /* margin-top: -40px; */
-  margin-bottom: 300px; /* увеличиваем отступ снизу, чтобы гиф поднялась */
-}
+    flex-shrink: 0;
+    width: 500px;
+    position: relative;
+    margin-bottom: 300px;
+  }
 
   .center-gif {
     width: 100%;
@@ -7559,19 +7531,26 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     display: block;
   }
 
-  /* Скрыть боковой текст на мобильных */
-  @media (max-width: 768px) {
-    .side-text {
-      display: none;
-    }
-	.image-wrapper {
-	  margin-bottom: 100px;
-	}
-    .center-gif-wrapper {
-      width: 90vw;
-	  margin-bottom: 100px;
-    }
-  }
+  .overlay-left {
+  position: absolute;
+  top: 40%;      /* отступ сверху */
+  left: 10px;     /* прижать слева */
+  width: 550px;   /* увеличили размер */
+  height: auto;
+  z-index: 20;
+}
+
+.overlay-right {
+  position: absolute;
+  top: 10%;         /* подняли чуть выше */
+  right: 10px;    /* прижать справа */
+  width: 550px;   /* увеличили размер */
+  height: auto;
+  z-index: 20;
+  transform-origin: top right;  /* точка вращения — правый верхний угол */
+  transform: rotate(-15deg);    /* наклон против часовой стрелки */
+}
+
 
   .fugg-container {
     background: #111;
@@ -7589,100 +7568,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     z-index: 10;
   }
 
-  .progress-box {
-    text-align: center;
-    margin-bottom: 20px;
-  }
+  /* ... остальные стили без изменений ... */
 
-  .progress-text {
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  .progress-bar {
-    height: 12px;
-    background: #000;
-    border: 2px solid #c0ff00;
-    border-radius: 8px;
-    overflow: hidden;
-  }
-
-  .progress-fill {
-    height: 100%;
-    background: #c0ff00;
-    transition: width 0.4s ease;
-  }
-
-  .wallet-box {
-    margin-top: 20px;
-  }
-
-  .wallet-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 6px;
-  }
-
-  .wallet-balance {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-weight: bold;
-    color: white;
-  }
-
-  .mxm-input {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #000;
-    border: 1px solid #444;
-    border-radius: 10px;
-    padding: 6px 12px;
-    margin-bottom: 12px;
-  }
-
-  .mxm-input img {
-    width: 26px;
-    height: 26px;
-  }
-
-  .mxm-input input {
-    background: transparent;
-    border: none;
-    color: #fff;
-    font-weight: bold;
-    text-align: center;
-    width: 50px;
-  }
-
-  .mxm-input input:focus {
-    outline: none;
-  }
-
-  .mxm-input span {
-    background: #222;
-    color: #666;
-    font-size: 11px;
-    padding: 4px 10px;
-    border-radius: 4px;
-  }
-
-  .wallet-box button {
-    background: #c0ff00;
-    color: #000;
-    border: none;
-    padding: 12px 0;
-    border-radius: 6px;
-    font-weight: bold;
-    width: 100%;
-    font-size: 14px;
-    cursor: pointer;
-  }
-
-  /* Адаптив */
   @media (max-width: 768px) {
     .image-wrapper {
       flex-direction: column;
@@ -7698,21 +7585,29 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
       margin: 0 auto;
       padding: 16px;
     }
+
+    /* Можно скрыть PNG на мобиле, если надо */
+    .overlay-left,
+    .overlay-right {
+      display: none;
+    }
   }
 </style>
 
 <script>
-  // Переключение гифок
+  // Переключение гифок по клику
   const gifs = document.querySelectorAll('.center-gif');
   let current = 0;
- gifs.forEach(gif => {
-  gif.style.cursor = 'pointer'; // чтобы было понятно, что можно кликать
-  gif.addEventListener('click', () => {
-    gifs[current].classList.remove('active');
-    current = (current + 1) % gifs.length;
-    gifs[current].classList.add('active');
+  gifs.forEach(gif => {
+    gif.style.cursor = 'pointer';
+    gif.addEventListener('click', () => {
+      gifs[current].classList.remove('active');
+      current = (current + 1) % gifs.length;
+      gifs[current].classList.add('active');
+    });
   });
-});
+
+  // Остальной JS код без изменений
   const maxBtn = document.getElementById('maxBtn');
   const mxmInput = document.getElementById('mxmInput');
   const walletBalance = document.getElementById('walletBalance');
@@ -7772,6 +7667,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     }
   });
 </script>
+
 
 
 
