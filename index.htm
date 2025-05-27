@@ -50,106 +50,106 @@
 	<meta content="Divi Child v.1.0.0" name="generator">
 	<style>
 		.fugg-container {
-  max-width: 400px;
-  margin: 30px auto;
-  padding: 20px;
-  background: #222;
-  border-radius: 10px;
-  text-align: center;
-}
+			max-width: 400px;
+			margin: 30px auto;
+			padding: 20px;
+			background: #222;
+			border-radius: 10px;
+			text-align: center;
+		}
 
-.progress-box {
-  margin-bottom: 20px;
-}
+		.progress-box {
+			margin-bottom: 20px;
+		}
 
-.progress-text {
-  font-size: 20px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
+		.progress-text {
+			font-size: 20px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
 
-.progress-bar {
-  background: #333;
-  height: 12px;
-  border-radius: 10px;
-  overflow: hidden;
-}
+		.progress-bar {
+			background: #333;
+			height: 12px;
+			border-radius: 10px;
+			overflow: hidden;
+		}
 
-.progress-fill {
-  height: 100%;
-  width: 24.5%;
-  background: #00ffc3;
-  transition: width 1s;
-}
+		.progress-fill {
+			height: 100%;
+			width: 24.5%;
+			background: #00ffc3;
+			transition: width 1s;
+		}
 
-.wallet-box input {
-  background: #000;
-  color: lime;
-  padding: 5px;
-  border: 1px solid #444;
-  border-radius: 6px;
-  width: 100px;
-}
+		.wallet-box input {
+			background: #000;
+			color: lime;
+			padding: 5px;
+			border: 1px solid #444;
+			border-radius: 6px;
+			width: 100px;
+		}
 
-.wallet-box .mxm-input {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: #111;
-  padding: 8px;
-  border-radius: 6px;
-  margin-bottom: 10px;
-}
+		.wallet-box .mxm-input {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			background: #111;
+			padding: 8px;
+			border-radius: 6px;
+			margin-bottom: 10px;
+		}
 
-.wallet-box img {
-  width: 24px;
-  height: 24px;
-}
+		.wallet-box img {
+			width: 24px;
+			height: 24px;
+		}
 
-.wallet-box button {
-  background: #c0ff00;
-  color: #000;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 6px;
-  cursor: pointer;
-  font-weight: bold;
-}
+		.wallet-box button {
+			background: #c0ff00;
+			color: #000;
+			border: none;
+			padding: 10px 20px;
+			border-radius: 6px;
+			cursor: pointer;
+			font-weight: bold;
+		}
 
-/* Модалка */
-.modal {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.7);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 1000;
-}
+		/* Модалка */
+		.modal {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: rgba(0, 0, 0, 0.7);
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			z-index: 1000;
+		}
 
-.modal-content {
-  background: #222;
-  padding: 30px;
-  border-radius: 12px;
-  text-align: center;
-}
+		.modal-content {
+			background: #222;
+			padding: 30px;
+			border-radius: 12px;
+			text-align: center;
+		}
 
-.modal-content button {
-  display: block;
-  margin: 10px auto;
-  padding: 10px 20px;
-  background: #00ffc3;
-  border: none;
-  border-radius: 6px;
-  font-weight: bold;
-}
+		.modal-content button {
+			display: block;
+			margin: 10px auto;
+			padding: 10px 20px;
+			background: #00ffc3;
+			border: none;
+			border-radius: 6px;
+			font-weight: bold;
+		}
 
-.hidden {
-  display: none;
-}
+		.hidden {
+			display: none;
+		}
 	</style>
 	<style id='wp-block-library-theme-inline-css' type='text/css'>
 		.wp-block-audio :where(figcaption) {
@@ -7460,225 +7460,311 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 						<div class="et-l et-l--post">
 							<div class="et_builder_inner_content et_pb_gutters3">
 								<div class="image-container" style="position: relative; display: inline-block;">
-  <img src="wp-content/uploads/2024/02/fs-fuggnatomy-1.png" alt="Fuggler Anatomy" />
+									<img src="wp-content/uploads/2024/02/fs-fuggnatomy-1.png" alt="Fuggler Anatomy" />
 
-  <a href="#" id="showFuggBtn" class="buy-now-button">Connect Wallet</a>
+									<a href="#" id="showFuggBtn" class="buy-now-button">Connect Wallet</a>
 
-  <!-- Оверлей + popup -->
-  <div id="fuggPopup" class="popup-overlay hidden">
-    <div class="fugg-container">
-      <button class="close-popup" aria-label="Close">&times;</button>
-      <div class="progress-box">
-        <div class="progress-text"><span id="fugg-count">2453</span>/10000 $FUGG bought</div>
-        <div class="progress-bar">
-          <div class="progress-fill" id="progressFill"></div>
-        </div>
-      </div>
+									<!-- Оверлей + popup -->
+									<div id="fuggPopup" class="popup-overlay hidden">
+										<div class="fugg-container">
+											<button class="close-popup" aria-label="Close">&times;</button>
+											<div class="progress-box">
+												<div class="progress-text"><span id="fugg-count">2453</span>/10000 $FUGG
+													bought</div>
+												<div class="progress-bar">
+													<div class="progress-fill" id="progressFill"></div>
+												</div>
+											</div>
 
-      <div class="wallet-box">
-        <p>MXM AVAILABLE:</p>
-        <div class="mxm-input">
-          <img src="icon.png" alt="icon" />
-          <input type="text" value="0" readonly />
-          <span>MAX</span>
-          <img src="icon.png" alt="icon" />
-        </div>
-        <button id="connectBtn">CONNECT WALLET</button>
-      </div>
-    </div>
-  </div>
+											<div class="wallet-box">
+												<div class="wallet-header">
+													<p>MXM AVAILABLE:</p>
+													<div class="wallet-balance">
+														<img src="icon.png" alt="icon" />
+														<span id="mxm-balance">20</span> <!-- <-- баланс -->
+													</div>
+												</div>
+												<div class="mxm-input">
+													<img src="icon.png" alt="icon" />
+													<input type="text" id="mxm-input" value="0" readonly />
+													<span id="max-btn" style="cursor: pointer;">MAX</span>
 
-  <!-- Модальное окно -->
-  <div id="walletModal" class="modal hidden">
-    <div class="modal-content">
-      <h2>Select Wallet</h2>
-      <p>Choose your preferred wallet provider:</p>
-      <button onclick="closeModal()">Metamask</button>
-      <button onclick="closeModal()">Phantom</button>
-      <button onclick="closeModal()">Close</button>
-    </div>
-  </div>
-</div>
+												</div>
+												<button id="connectBtn">CONNECT WALLET</button>
+											</div>
 
-<style>
-  .buy-now-button {
-    display: inline-block;
-    padding: 12px 28px;
-    background: #c0ff00;
-    color: #000;
-    font-weight: bold;
-    text-decoration: none;
-    border-radius: 8px;
-    cursor: pointer;
-    margin-top: 10px;
-  }
+										</div>
+									</div>
 
-  /* Оверлей - затемнение */
-  .popup-overlay {
-    position: fixed; /* чтобы быть поверх всего */
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(0,0,0,0.7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 10000;
-  }
-  .hidden {
-    display: none;
-  }
+									<!-- Модальное окно -->
+									<div id="walletModal" class="modal hidden">
+										<div class="modal-content">
+											<h2>Select Wallet</h2>
+											<p>Choose your preferred wallet provider:</p>
+											<button onclick="closeModal()">Metamask</button>
+											<button onclick="closeModal()">Phantom</button>
+											<button onclick="closeModal()">Close</button>
+										</div>
+									</div>
+								</div>
 
-  .fugg-container {
-    background: #222;
-    border-radius: 10px;
-    padding: 20px;
-    color: white;
-    max-width: 400px;
-    width: 90%;
-    position: relative;
-    box-shadow: 0 0 20px #00ffc3;
-  }
+								<style>
+									.wallet-header {
+										display: flex;
+										justify-content: space-between;
+										align-items: center;
+										margin-bottom: 6px;
+									}
 
-  .close-popup {
-    position: absolute;
-    top: 8px;
-    right: 12px;
-    font-size: 28px;
-    background: transparent;
-    border: none;
-    color: #00ffc3;
-    cursor: pointer;
-  }
+									.wallet-balance {
+										display: flex;
+										align-items: center;
+										gap: 6px;
+									}
 
-  .progress-bar {
-    background: #333;
-    height: 12px;
-    border-radius: 10px;
-    overflow: hidden;
-    margin-bottom: 20px;
-  }
-  .progress-fill {
-    height: 100%;
-    width: 24.5%;
-    background: #00ffc3;
-    transition: width 1s;
-  }
-  .wallet-box p {
-    margin: 0 0 5px 0;
-  }
-  .mxm-input {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #111;
-    padding: 8px;
-    border-radius: 6px;
-    margin-bottom: 10px;
-  }
-  .mxm-input img {
-    width: 24px;
-    height: 24px;
-  }
-  .wallet-box input {
-    background: #000;
-    color: lime;
-    padding: 5px;
-    border: 1px solid #444;
-    border-radius: 6px;
-    width: 100px;
-    text-align: center;
-  }
-  .wallet-box button {
-    background: #c0ff00;
-    color: #000;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 6px;
-    cursor: pointer;
-    font-weight: bold;
-    width: 100%;
-  }
+									.wallet-balance img {
+										width: 20px;
+										height: 20px;
+									}
 
-  /* Модальное окно выбора кошелька */
-  .modal {
-    position: fixed;
-    top: 0; left: 0; right:0; bottom:0;
-    background: rgba(0,0,0,0.7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 11000; /* выше popup */
-  }
-  .modal.hidden {
-    display: none;
-  }
-  .modal-content {
-    background: #222;
-    padding: 30px;
-    border-radius: 12px;
-    text-align: center;
-    color: #fff;
-    max-width: 300px;
-    width: 90%;
-  }
-  .modal-content button {
-    margin: 10px;
-    padding: 10px 20px;
-    background: #00ffc3;
-    border: none;
-    border-radius: 6px;
-    font-weight: bold;
-    cursor: pointer;
-  }
-</style>
+									.wallet-balance span {
+										font-weight: bold;
+										color: #fff;
+										font-size: 14px;
+									}
 
-<script>
-  const showFuggBtn = document.getElementById('showFuggBtn');
-  const fuggPopup = document.getElementById('fuggPopup');
-  const closePopupBtn = fuggPopup.querySelector('.close-popup');
-  const connectBtn = document.getElementById('connectBtn');
-  const modal = document.getElementById('walletModal');
-  const fuggCount = document.getElementById('fugg-count');
-  const progressFill = document.getElementById('progressFill');
+									/* Кнопка вызова */
+									.buy-now-button {
+										display: inline-block;
+										padding: 12px 28px;
+										background: #c0ff00;
+										color: #000;
+										font-weight: bold;
+										text-decoration: none;
+										border-radius: 8px;
+										cursor: pointer;
+										margin-top: 10px;
+									}
 
-  // Показать всплывающее окно
-  showFuggBtn.addEventListener('click', e => {
-    e.preventDefault();
-    fuggPopup.classList.remove('hidden');
-  });
+									/* Оверлей */
+									.popup-overlay {
+										position: fixed;
+										inset: 0;
+										background: rgba(0, 0, 0, 0.7);
+										display: flex;
+										justify-content: center;
+										align-items: center;
+										z-index: 10000;
+									}
 
-  // Закрыть popup по кнопке
-  closePopupBtn.addEventListener('click', () => {
-    fuggPopup.classList.add('hidden');
-  });
+									.hidden {
+										display: none;
+									}
 
-  // Закрыть popup по клику на оверлей (за пределами окна)
-  fuggPopup.addEventListener('click', e => {
-    if (e.target === fuggPopup) {
-      fuggPopup.classList.add('hidden');
-    }
-  });
+									.fugg-container {
+										background: #111;
+										border-radius: 16px;
+										padding: 24px;
+										color: white;
+										width: 380px;
+										position: relative;
+										box-shadow: 0 0 12px #00ffc3;
+										border: 1px solid #333;
+									}
 
-  // Открыть модалку выбора кошелька
-  connectBtn.addEventListener('click', () => {
-    modal.classList.remove('hidden');
-  });
+									/* Закрытие */
+									.close-popup {
+										position: absolute;
+										top: 8px;
+										right: 12px;
+										font-size: 28px;
+										background: transparent;
+										border: none;
+										color: #00ffc3;
+										cursor: pointer;
+									}
 
-  function closeModal() {
-    modal.classList.add('hidden');
-  }
-  window.closeModal = closeModal;
+									/* Прогресс */
+									.progress-box {
+										text-align: center;
+										margin-bottom: 20px;
+									}
 
-  // Имитация прогресса
-  let currentFugg = 2453;
-  setInterval(() => {
-    if (currentFugg >= 10000) return;
-    currentFugg += Math.floor(Math.random() * 10);
-    if (currentFugg > 10000) currentFugg = 10000;
-    fuggCount.innerText = currentFugg;
-    let percent = (currentFugg / 10000) * 100;
-    progressFill.style.width = percent + '%';
-  }, 2000);
-</script>
+									.progress-text {
+										font-size: 20px;
+										font-weight: bold;
+										margin-bottom: 10px;
+									}
+
+									.progress-bar {
+										height: 12px;
+										background: #000;
+										border: 2px solid #00ffc3;
+										border-radius: 8px;
+										overflow: hidden;
+									}
+
+									.progress-fill {
+										height: 100%;
+										background: #00ffc3;
+										width: 24.5%;
+										transition: width 0.4s ease;
+									}
+
+									/* Wallet */
+									.wallet-box p {
+										margin: 0 0 6px 0;
+										font-size: 13px;
+										color: #aaa;
+									}
+
+									.mxm-input {
+										display: flex;
+										align-items: center;
+										justify-content: space-between;
+										background: #000;
+										border: 1px solid #444;
+										border-radius: 10px;
+										padding: 6px 12px;
+										margin-bottom: 12px;
+									}
+
+									.mxm-input img {
+										width: 26px;
+										height: 26px;
+									}
+
+									.mxm-input input {
+										background: transparent;
+										border: none;
+										color: #fff;
+										font-weight: bold;
+										text-align: center;
+										width: 50px;
+									}
+
+									.mxm-input input:focus {
+										outline: none;
+									}
+
+									.mxm-input span {
+										background: #222;
+										color: #666;
+										font-size: 11px;
+										padding: 4px 10px;
+										border-radius: 4px;
+										
+									}
+
+									/* Кнопка wallet */
+									.wallet-box button {
+										background: #c0ff00;
+										color: #000;
+										border: none;
+										padding: 12px 0;
+										border-radius: 6px;
+										font-weight: bold;
+										width: 100%;
+										font-size: 14px;
+										cursor: pointer;
+									}
+
+									/* Модалка выбора кошелька */
+									.modal {
+										position: fixed;
+										inset: 0;
+										background: rgba(0, 0, 0, 0.7);
+										display: flex;
+										justify-content: center;
+										align-items: center;
+										z-index: 11000;
+									}
+
+									.modal.hidden {
+										display: none;
+									}
+
+									.modal-content {
+										background: #222;
+										padding: 30px;
+										border-radius: 12px;
+										text-align: center;
+										color: #fff;
+										max-width: 300px;
+										width: 90%;
+									}
+
+									.modal-content button {
+										margin: 10px;
+										padding: 10px 20px;
+										background: #00ffc3;
+										border: none;
+										border-radius: 6px;
+										font-weight: bold;
+										cursor: pointer;
+									}
+								</style>
+
+								<script>
+									const showFuggBtn = document.getElementById('showFuggBtn');
+									const fuggPopup = document.getElementById('fuggPopup');
+									const closePopupBtn = fuggPopup.querySelector('.close-popup');
+									const connectBtn = document.getElementById('connectBtn');
+									const modal = document.getElementById('walletModal');
+									const fuggCount = document.getElementById('fugg-count');
+									const progressFill = document.getElementById('progressFill');
+
+									// Показать всплывающее окно
+									showFuggBtn.addEventListener('click', e => {
+										e.preventDefault();
+										fuggPopup.classList.remove('hidden');
+									});
+
+									// Закрыть popup по кнопке
+									closePopupBtn.addEventListener('click', () => {
+										fuggPopup.classList.add('hidden');
+									});
+
+									// Закрыть popup по клику на оверлей (за пределами окна)
+									fuggPopup.addEventListener('click', e => {
+										if (e.target === fuggPopup) {
+											fuggPopup.classList.add('hidden');
+										}
+									});
+
+									// Открыть модалку выбора кошелька
+									connectBtn.addEventListener('click', () => {
+										modal.classList.remove('hidden');
+									});
+
+									function closeModal() {
+										modal.classList.add('hidden');
+									}
+									window.closeModal = closeModal;
+
+									// Имитация прогресса
+									let currentFugg = 2453;
+									setInterval(() => {
+										if (currentFugg >= 10000) return;
+										currentFugg += Math.floor(Math.random() * 10);
+										if (currentFugg > 10000) currentFugg = 10000;
+										fuggCount.innerText = currentFugg;
+										let percent = (currentFugg / 10000) * 100;
+										progressFill.style.width = percent + '%';
+									}, 2000);
+									document.addEventListener('DOMContentLoaded', () => {
+										const maxBtn = document.getElementById('max-btn');
+										const mxmBalance = document.getElementById('mxm-balance');
+										const mxmInput = document.getElementById('mxm-input');
+
+										maxBtn.addEventListener('click', () => {
+											const balance = parseFloat(mxmBalance.textContent);
+											if (!isNaN(balance)) {
+												mxmInput.value = balance;
+											}
+										});
+									});
+								</script>
 
 
 								<div id="what_heck_section"
