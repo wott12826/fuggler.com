@@ -7460,12 +7460,28 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 						<div class="et-l et-l--post">
 							<div class="et_builder_inner_content et_pb_gutters3">
 
-								<div class="image-wrapper" style="position: relative; display: inline-block;">
-									<img src="wp-content/uploads/2024/02/fs-fuggnatomy-1.png" alt="Monster"
-										class="bg-image" />
+								<div class="image-wrapper"
+									style="position: relative; max-width: 800px; margin: 0 auto; width: 100%;">
 
+									<!-- Левая текстовая колонка -->
+									<div class="side-text left-text" contenteditable="true">
+										Левый текст здесь
+									</div>
+
+									<!-- Гифки (накладываются друг на друга) -->
+									<div class="gif-container">
+										<img src="cdn-cgi/images/1.gif" alt="Monster gif 1" class="gif-image active" />
+										<img src="cdn-cgi/images/2.gif" alt="Monster gif 2" class="gif-image" />
+									</div>
+
+									<!-- Правая текстовая колонка -->
+									<div class="side-text right-text" contenteditable="true">
+										Правый текст здесь
+									</div>
+
+									<!-- Блок прогресса и кошелька поверх гифок -->
 									<div class="fugg-container"
-										style="position: absolute; bottom: 60px; left: 50%; transform: translateX(-50%); z-index: 10;">
+										style="position: absolute; bottom: 40px; left: 50%; transform: translateX(-50%); z-index: 10;">
 										<div class="progress-box">
 											<div class="progress-text"><span id="fugg-count">2462</span>/10000 $FUGG
 												bought</div>
@@ -7486,7 +7502,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 											<div class="mxm-input">
 												<img src="icon.png" alt="icon" />
-												<!-- Убираем readonly -->
 												<input type="text" value="0" id="mxmInput" />
 												<span id="maxBtn" style="cursor: pointer;">MAX</span>
 											</div>
@@ -7499,70 +7514,65 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 								<style>
 									.image-wrapper {
 										position: relative;
+										max-width: 800px;
 										width: 100%;
-										max-width: 1600px;
 										margin: 0 auto;
+										display: flex;
+										align-items: center;
+										justify-content: center;
+										gap: 12px;
 									}
 
-									.bg-image {
-										width: 100%;
-										height: auto;
-										display: block;
+									/* Текстовые колонки по бокам */
+									.side-text {
+										width: 15%;
+										height: 300px;
+										background: rgba(17, 17, 17, 0.8);
+										color: white;
+										border-radius: 12px;
+										padding: 12px;
+										box-sizing: border-box;
+										overflow-y: auto;
+										user-select: text;
 									}
 
-									.fugg-container-overlay {
+									.side-text:focus {
+										outline: 2px solid #c0ff00;
+									}
+
+									/* Контейнер для гифок */
+									.gif-container {
+										position: relative;
+										width: 55%;
+										height: 300px;
+									}
+
+									/* Гифки накладываются друг на друга */
+									.gif-image {
 										position: absolute;
-										bottom: 60px;
-										left: 50%;
-										transform: translateX(-50%);
-										width: 380px;
-										/* сделано равным контейнеру */
+										width: 100%;
 										height: 100%;
-										background: rgba(17, 17, 17, 0.9);
-										/* чуть прозрачный фон */
-										border-radius: 16px;
-										box-shadow: 0 0 12px #c0ff00;
-										border: 1px solid #333;
-										z-index: 1;
-										/* под контейнером */
+										object-fit: contain;
+										top: 0;
+										left: 0;
+										opacity: 0;
+										transition: opacity 0.5s ease-in-out;
 									}
 
+									.gif-image.active {
+										opacity: 1;
+									}
+
+									/* Контейнер прогресса */
 									.fugg-container {
 										background: #111;
 										border-radius: 16px;
 										padding: 24px;
 										color: white;
-										width: 100%;
-										max-width: 380px;
-										position: relative;
+										width: 360px;
 										box-shadow: 0 0 12px #c0ff00;
 										border: 1px solid #333;
 										box-sizing: border-box;
-										margin: 0 auto;
-									}
-
-									/* Адаптивность для мобильных устройств */
-									@media (max-width: 768px) {
-										.fugg-container {
-											max-width: 50vw;
-											/* 90% ширины экрана */
-											padding: 16px;
-										}
-
-										.progress-text {
-											font-size: 16px;
-											word-wrap: break-word;
-											/* Перенос длинных слов */
-										}
-
-										.progress-bar {
-											height: 10px;
-										}
-
-										.wallet-box button {
-											padding: 10px 0;
-											font-size: 12px;
-										}
 									}
 
 									.progress-box {
@@ -7663,20 +7673,57 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 										font-size: 14px;
 										cursor: pointer;
 									}
+
+									/* Адаптив */
+									@media (max-width: 768px) {
+										.image-wrapper {
+											flex-direction: column;
+											max-width: 100%;
+										}
+
+										.side-text {
+											width: 90%;
+											height: auto;
+											margin-bottom: 12px;
+										}
+
+										.gif-container {
+											width: 90%;
+											height: 250px;
+											margin-bottom: 12px;
+										}
+
+										.fugg-container {
+											position: relative !important;
+											bottom: auto !important;
+											left: auto !important;
+											transform: none !important;
+											width: 90%;
+											margin: 0 auto;
+											padding: 16px;
+										}
+									}
 								</style>
 
 								<script>
+									// Переключение гифок
+									const gifs = document.querySelectorAll('.gif-image');
+									let current = 0;
+									setInterval(() => {
+										gifs[current].classList.remove('active');
+										current = (current + 1) % gifs.length;
+										gifs[current].classList.add('active');
+									}, 4000);
+
 									const maxBtn = document.getElementById('maxBtn');
 									const mxmInput = document.getElementById('mxmInput');
 									const walletBalance = document.getElementById('walletBalance');
 									const connectBtn = document.getElementById('connectBtn');
 
-									// При клике на MAX — ставим максимальный баланс
 									maxBtn.addEventListener('click', () => {
 										mxmInput.value = walletBalance.textContent.trim();
 									});
 
-									// Ограничение ввода — разрешаем только числа и не больше walletBalance
 									mxmInput.addEventListener('input', () => {
 										let maxVal = parseFloat(walletBalance.textContent.trim());
 										let currentVal = mxmInput.value;
@@ -7701,16 +7748,27 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 									});
 
 									connectBtn.addEventListener('click', async () => {
+										let maxVal = parseFloat(walletBalance.textContent.trim());
+										let inputVal = parseFloat(mxmInput.value);
+
+										if (isNaN(inputVal) || inputVal <= 0) {
+											alert('Введите корректное число больше 0');
+											return;
+										}
+
+										if (inputVal > maxVal) {
+											alert('Ошибка: вводимое значение превышает баланс кошелька!');
+											return;
+										}
+
 										try {
 											if (window.solana && window.solana.isPhantom) {
-												// Запрашиваем подключение кошелька
 												const resp = await window.solana.connect();
 												alert('Connected to wallet: ' + resp.publicKey.toString());
 												connectBtn.textContent = 'Wallet Connected';
 												connectBtn.disabled = true;
 											} else {
 												alert('Phantom wallet not found. Please install Phantom extension.');
-												// Можно добавить ссылку на установку Phantom
 											}
 										} catch (err) {
 											console.error(err);
@@ -7718,6 +7776,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 										}
 									});
 								</script>
+
 
 
 
