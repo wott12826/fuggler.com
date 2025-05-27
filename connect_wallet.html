@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Connect Wallet - Fuggler</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+}
+
+.fugg-container {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #222;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.progress-box {
+  margin-bottom: 20px;
+}
+
+.progress-text {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  background: #333;
+  height: 12px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 24.5%;
+  background: #00ffc3;
+  transition: width 1s;
+}
+
+.wallet-box input {
+  background: #000;
+  color: lime;
+  padding: 5px;
+  border: 1px solid #444;
+  border-radius: 6px;
+  width: 100px;
+}
+
+.wallet-box .mxm-input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #111;
+  padding: 8px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.wallet-box img {
+  width: 24px;
+  height: 24px;
+}
+
+.wallet-box button {
+  background: #c0ff00;
+  color: #000;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Модалка */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: #222;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.modal-content button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #00ffc3;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+    </style>
+</head>
+<body>
+    <div class="fugg-container">
+        <div class="progress-box">
+            <div class="progress-text"><span id="fugg-count">2453</span>/10000 $FUGG bought</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+
+        <div class="wallet-box">
+            <p>MXM AVAILABLE:</p>
+            <div class="mxm-input">
+                <img src="icon.png" alt="icon">
+                <input type="text" value="0" readonly />
+                <span>MAX</span>
+                <img src="icon.png" alt="icon">
+            </div>
+            <button id="connectBtn">CONNECT WALLET</button>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div id="walletModal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Select Wallet</h2>
+            <p>Choose your preferred wallet provider:</p>
+            <button onclick="closeModal()">Metamask</button>
+            <button onclick="closeModal()">Phantom</button>
+            <button onclick="closeModal()">Close</button>
+        </div>
+    </div>
+
+    <script>
+  const modal = document.getElementById('walletModal');
+  const connectBtn = document.getElementById('connectBtn');
+  const progressFill = document.getElementById('progressFill');
+  const fuggCount = document.getElementById('fugg-count');
+
+  connectBtn.addEventListener('click', () => {
+    modal.classList.remove('hidden');
+  });
+
+  function closeModal() {
+    modal.classList.add('hidden');
+  }
+
+  // Имитируем активность: увеличиваем число и ширину полосы
+  let currentFugg = 2453;
+
+  setInterval(() => {
+    if (currentFugg >= 10000) return;
+    currentFugg += Math.floor(Math.random() * 10);
+    if (currentFugg > 10000) currentFugg = 10000;
+    fuggCount.innerText = currentFugg;
+    let percent = (currentFugg / 10000) * 100;
+    progressFill.style.width = percent + "%";
+  }, 2000);
+</script>
+
+</body>
+</html>
