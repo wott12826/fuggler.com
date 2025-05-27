@@ -78,7 +78,7 @@
 		.progress-fill {
 			height: 100%;
 			width: 24.5%;
-			background: #00ffc3;
+			background: #c0ff00;
 			transition: width 1s;
 		}
 
@@ -141,7 +141,7 @@
 			display: block;
 			margin: 10px auto;
 			padding: 10px 20px;
-			background: #00ffc3;
+			background: #c0ff00;
 			border: none;
 			border-radius: 6px;
 			font-weight: bold;
@@ -7464,7 +7464,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 									<img src="wp-content/uploads/2024/02/fs-fuggnatomy-1.png" alt="Monster"
 										class="bg-image" />
 
-									<!-- Блок поверх картинки -->
 									<div class="fugg-container"
 										style="position: absolute; bottom: 60px; left: 50%; transform: translateX(-50%); z-index: 10;">
 										<div class="progress-box">
@@ -7487,7 +7486,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 											<div class="mxm-input">
 												<img src="icon.png" alt="icon" />
-												<input type="text" value="0" readonly id="mxmInput" />
+												<!-- Убираем readonly -->
+												<input type="text" value="0" id="mxmInput" />
 												<span id="maxBtn" style="cursor: pointer;">MAX</span>
 											</div>
 
@@ -7521,7 +7521,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 										background: rgba(17, 17, 17, 0.9);
 										/* чуть прозрачный фон */
 										border-radius: 16px;
-										box-shadow: 0 0 12px #00ffc3;
+										box-shadow: 0 0 12px #c0ff00;
 										border: 1px solid #333;
 										z-index: 1;
 										/* под контейнером */
@@ -7537,7 +7537,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 										width: 100%;
 										max-width: 380px;
 										margin: 0 auto;
-										box-shadow: 0 0 12px #00ffc3;
+										box-shadow: 0 0 12px #c0ff00;
 										border: 1px solid #333;
 									}
 
@@ -7555,14 +7555,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 									.progress-bar {
 										height: 12px;
 										background: #000;
-										border: 2px solid #00ffc3;
+										border: 2px solid #c0ff00;
 										border-radius: 8px;
 										overflow: hidden;
 									}
 
 									.progress-fill {
 										height: 100%;
-										background: #00ffc3;
+										background: #c0ff00;
 										transition: width 0.4s ease;
 									}
 
@@ -7645,9 +7645,53 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 									const maxBtn = document.getElementById('maxBtn');
 									const mxmInput = document.getElementById('mxmInput');
 									const walletBalance = document.getElementById('walletBalance');
+									const connectBtn = document.getElementById('connectBtn');
 
+									// При клике на MAX — ставим максимальный баланс
 									maxBtn.addEventListener('click', () => {
 										mxmInput.value = walletBalance.textContent.trim();
+									});
+
+									// Ограничение ввода — разрешаем только числа и не больше walletBalance
+									mxmInput.addEventListener('input', () => {
+										let maxVal = parseFloat(walletBalance.textContent.trim());
+										let currentVal = mxmInput.value;
+
+										// Удаляем все нечисловые символы кроме точки
+										currentVal = currentVal.replace(/[^0-9.]/g, '');
+
+										// Проверяем, чтобы не было больше одного знака "."
+										const parts = currentVal.split('.');
+										if (parts.length > 2) {
+											currentVal = parts[0] + '.' + parts.slice(1).join('');
+										}
+
+										let numVal = parseFloat(currentVal);
+										if (isNaN(numVal)) numVal = 0;
+
+										if (numVal > maxVal) {
+											numVal = maxVal;
+										}
+
+										mxmInput.value = numVal;
+									});
+
+									connectBtn.addEventListener('click', async () => {
+										try {
+											if (window.solana && window.solana.isPhantom) {
+												// Запрашиваем подключение кошелька
+												const resp = await window.solana.connect();
+												alert('Connected to wallet: ' + resp.publicKey.toString());
+												connectBtn.textContent = 'Wallet Connected';
+												connectBtn.disabled = true;
+											} else {
+												alert('Phantom wallet not found. Please install Phantom extension.');
+												// Можно добавить ссылку на установку Phantom
+											}
+										} catch (err) {
+											console.error(err);
+											alert('Connection to Phantom wallet failed or was rejected.');
+										}
 									});
 								</script>
 
