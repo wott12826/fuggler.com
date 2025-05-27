@@ -7459,52 +7459,84 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 					<div class="entry-content">
 						<div class="et-l et-l--post">
 							<div class="et_builder_inner_content et_pb_gutters3">
-					
-									<div class="image-wrapper" style="position: relative; display: inline-block;">
-										<img src="wp-content/uploads/2024/02/fs-fuggnatomy-1.png" alt="Monster"
-											class="bg-image" />
-										<div class="fugg-container-overlay"></div>
-										<div class="fugg-container" style="max-width: 360px; margin: 0 auto;">
 
-											<div class="progress-box">
-												<div class="progress-text"><span id="fugg-count">2462</span>/10000 $FUGG
-													bought</div>
-												<div class="progress-bar">
-													<div class="progress-fill" id="progressFill" style="width: 24.62%;">
-													</div>
+								<div class="image-wrapper" style="position: relative; display: inline-block;">
+									<img src="wp-content/uploads/2024/02/fs-fuggnatomy-1.png" alt="Monster"
+										class="bg-image" />
+
+									<!-- Блок поверх картинки -->
+									<div class="fugg-container"
+										style="position: absolute; bottom: 60px; left: 50%; transform: translateX(-50%); z-index: 10;">
+										<div class="progress-box">
+											<div class="progress-text"><span id="fugg-count">2462</span>/10000 $FUGG
+												bought</div>
+											<div class="progress-bar">
+												<div class="progress-fill" id="progressFill" style="width: 24.62%;">
 												</div>
-											</div>
-
-											<div class="wallet-box">
-												<div class="wallet-header">
-													<p>MXM AVAILABLE:</p>
-													<div class="wallet-balance">
-														<img src="icon.png" alt="icon" />
-														<span id="walletBalance">20</span>
-													</div>
-												</div>
-
-												<div class="mxm-input">
-													<img src="icon.png" alt="icon" />
-													<input type="text" value="0" readonly id="mxmInput" />
-													<span id="maxBtn" style="cursor: pointer;">MAX</span>
-												</div>
-
-												<button id="connectBtn">CONNECT WALLET</button>
 											</div>
 										</div>
+
+										<div class="wallet-box">
+											<div class="wallet-header">
+												<p>MXM AVAILABLE:</p>
+												<div class="wallet-balance">
+													<img src="icon.png" alt="icon" />
+													<span id="walletBalance">20</span>
+												</div>
+											</div>
+
+											<div class="mxm-input">
+												<img src="icon.png" alt="icon" />
+												<input type="text" value="0" readonly id="mxmInput" />
+												<span id="maxBtn" style="cursor: pointer;">MAX</span>
+											</div>
+
+											<button id="connectBtn">CONNECT WALLET</button>
+										</div>
 									</div>
-								
+								</div>
 
 								<style>
+									.image-wrapper {
+										position: relative;
+										width: 100%;
+										max-width: 1600px;
+										margin: 0 auto;
+									}
+
+									.bg-image {
+										width: 100%;
+										height: auto;
+										display: block;
+									}
+
+									.fugg-container-overlay {
+										position: absolute;
+										bottom: 60px;
+										left: 50%;
+										transform: translateX(-50%);
+										width: 380px;
+										/* сделано равным контейнеру */
+										height: 100%;
+										background: rgba(17, 17, 17, 0.9);
+										/* чуть прозрачный фон */
+										border-radius: 16px;
+										box-shadow: 0 0 12px #00ffc3;
+										border: 1px solid #333;
+										z-index: 1;
+										/* под контейнером */
+									}
+
 									.fugg-container {
+										position: relative;
+										z-index: 2;
 										background: #111;
 										border-radius: 16px;
 										padding: 24px;
 										color: white;
 										width: 100%;
 										max-width: 380px;
-										position: relative;
+										margin: 0 auto;
 										box-shadow: 0 0 12px #00ffc3;
 										border: 1px solid #333;
 									}
@@ -7607,34 +7639,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 										font-size: 14px;
 										cursor: pointer;
 									}
-
-									.image-wrapper {
-										position: relative;
-										width: 100%;
-										max-width: 1600px;
-										margin: 0 auto;
-									}
-
-									.bg-image {
-										width: 100%;
-										height: auto;
-										display: block;
-									}
-
-									.fugg-container-overlay {
-										position: absolute;
-										bottom: 60px;
-										/* можно заменить на top: или изменить координаты */
-										left: 50%;
-										transform: translateX(-50%);
-										background: #111;
-										border-radius: 16px;
-										padding: 24px;
-										color: white;
-										width: 360px;
-										box-shadow: 0 0 12px #00ffc3;
-										border: 1px solid #333;
-									}
 								</style>
 
 								<script>
@@ -7643,9 +7647,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 									const walletBalance = document.getElementById('walletBalance');
 
 									maxBtn.addEventListener('click', () => {
-										mxmInput.value = walletBalance.innerText;
+										mxmInput.value = walletBalance.textContent.trim();
 									});
 								</script>
+
 
 
 								<div id="what_heck_section"
