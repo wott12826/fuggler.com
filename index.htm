@@ -8196,6 +8196,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                         ></span>
                      </div>
                   </div>
+		       <script>
+			document.addEventListener('DOMContentLoaded', function () {
+  const closeButton = document.getElementById('menu_close_button');
+  const sidebar = document.getElementById('mobile_menu');
+
+  if (closeButton && sidebar) {
+    const closeMenu = function (e) {
+      e.preventDefault();
+      sidebar.style.display = 'none'; // Прячем меню вручную
+    };
+
+    closeButton.addEventListener('click', closeMenu);
+    closeButton.addEventListener('touchstart', closeMenu);
+  }
+});
+
+		       </script>
                </div>
                <!-- #et-top-navigation -->
             </div>
