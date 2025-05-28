@@ -8193,7 +8193,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
   if (closeButton && sidebar) {
     const closeMenu = function (e) {
       e.preventDefault();
-      sidebar.classList.remove('mobile_nav open'); // Замените на актуальный класс, отвечающий за отображение панели
+      sidebar.classList.remove('mobile_nav opened'); // Замените на актуальный класс, отвечающий за отображение панели
     };
 
     closeButton.addEventListener('click', closeMenu);
