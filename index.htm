@@ -8185,6 +8185,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                         </div>
 			   <span class="menu_close_button"> 
 			   </span> 
+			     <script>
+				     document.addEventListener('DOMContentLoaded', function () {
+  const closeButton = document.getElementById('menu_close_button');
+  const sidebar = document.querySelector('.et_mobile_nav_menu'); // Замените на актуальный селектор боковой панели
+
+  if (closeButton && sidebar) {
+    const closeMenu = function (e) {
+      e.preventDefault();
+      sidebar.classList.remove('mobile_nav open'); // Замените на актуальный класс, отвечающий за отображение панели
+    };
+
+    closeButton.addEventListener('click', closeMenu);
+    closeButton.addEventListener('touchstart', closeMenu);
+  }
+});
+
+			     </script>
                      </ul>
                   </nav>
 
